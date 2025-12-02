@@ -11,4 +11,4 @@ ESTO ES SOLO PARA BORRAR LA CONFIGURACION QUE TENIA ANTES DE ESTA, SI SE EJECUTA
 mv ~/.config/nvim ~/.config/nvim_backup
 mv ~/.local/share/nvim ~/.local/share/nvim_backup
 mv ~/.local/state/nvim ~/.local/state/nvim_backup
-mv ~/.cache/nvim ~/.cache/nvim_backup  # opcional, pero recomendable
+mv ~/.cache/nvim ~/.cache/nvim_backup  
